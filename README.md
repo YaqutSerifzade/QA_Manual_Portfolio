@@ -1,17 +1,42 @@
 QA Manual Portfolio
-Welcome to my QA Manual Portfolio!
 
-This repository showcases my work as a QA Engineer in manual testing, including examples of test cases, bug reports, test plans, and test scenarios.
+Welcome to my QA Manual Portfolio 👋
+This repository demonstrates my practical experience and understanding of manual software testing concepts, tools, and best practices.
+
+It includes real-world examples of test documentation created during QA training and personal practice, aimed at showcasing my approach to quality assurance.
 
 📂 Repository Structure
-Test-Cases/ – Examples of test cases for various web applications
-Bug-Reports/ – Sample bug reports with steps to reproduce and expected vs. actual results
-Test-Plan/ – Example test plans demonstrating test coverage and strategy
-Test-Scenarios/ – Sample test scenarios for functional testing
+
+Test-Cases/
+Sample test cases for various web applications, covering positive and negative scenarios.
+
+Bug-Reports/
+Example bug reports with clear steps to reproduce, expected vs actual results, severity, and priority.
+
+Test-Plans/
+Sample test plans outlining test scope, strategy, entry/exit criteria, and test coverage.
+
+Test-Scenarios/
+High-level test scenarios designed for functional testing.
+
 🛠 Tools & Skills
-Manual Testing: Functional, Regression, Smoke, System Testing
-Bug Tracking & Test Management: Jira, Xray
-Analytical & Problem-Solving Skills: Gained from Applied Mathematics and Cybernetics studies
+
+Manual Testing:
+Functional, Regression, Smoke, System Testing
+
+Bug Tracking & Test Management:
+Jira, X-Ray
+
+Testing Knowledge:
+SDLC, STLC, Bug Life Cycle, Test Design Techniques
+
+Analytical Skills:
+Strong analytical and problem-solving mindset developed through studies in Applied Mathematics and Cybernetics
+
 📌 Notes
-These files are examples of my work during QA training and personal practice
-Designed to demonstrate understanding of software testing principles and best practices
+
+All files in this repository are examples created for learning and demonstration purposes.
+
+The content is designed to reflect my understanding of software testing principles, documentation standards, and QA best practices.
+
+This repository is continuously updated as I improve my skills and gain more experience.
